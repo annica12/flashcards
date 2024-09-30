@@ -13,5 +13,11 @@ criaCartao(
 criaCartao(
     '3)',
     'Como foi a traição de Chico Moedas?',
-    'Chico traiu Luísa Sonza com outra mulher no banheiro de um bar do Rio de Janeiro'
+    'Chico traiu Luísa Sonza com outra mulher em um bar'
+)
+
+criaCartao(
+    '4)',
+    'Qual é o nome do chico moedas?',
+    'Chico Veiga'
 )
